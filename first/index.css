@@ -1,0 +1,31 @@
+#dark-gray-box {
+    height: 20vh;
+    width: 100vw;
+    background: #444444;
+    position: relative;
+}
+
+.light-gray-box {
+    height: 80vh;
+    width: 10vw;
+    background: #d8d8d8;
+    display: inline-block;
+    position: relative;
+}
+
+#left-box {
+    float: left;
+}
+
+#right-box {
+    float: right;
+}
+
+#black-box {
+    height: 10vh;
+    width: 80vw;
+    background: #222222;
+    display: inline-block;
+    position: absolute;
+    bottom: 0px;
+}
