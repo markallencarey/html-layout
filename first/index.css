@@ -1,3 +1,7 @@
+body {
+    background: #efefef;
+}
+
 #dark-gray-box {
     height: 20vh;
     width: 100vw;
@@ -7,7 +11,7 @@
 
 .light-gray-box {
     height: 80vh;
-    width: 10vw;
+    width: 12.5vw;
     background: #d8d8d8;
     display: inline-block;
     position: relative;
@@ -23,7 +27,7 @@
 
 #black-box {
     height: 10vh;
-    width: 80vw;
+    width: 75vw;
     background: #222222;
     display: inline-block;
     position: absolute;
