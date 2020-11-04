@@ -1,0 +1,53 @@
+section {
+    width: 100vw;
+}
+
+.lower {
+    height: 14vh;
+}
+
+#gray-rectangle {
+    background-color: gainsboro;
+    height: 14vh;
+    display: flex;
+    align-items: center;
+}
+
+#blue-box {
+    background-color: cornflowerblue;
+    height: 100px;
+    width: 100px;
+    margin-left: 2vw;
+}
+
+#text-box {
+    height: 30vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#text-box p {
+    text-align: left;
+    font-size: 26px;
+    padding-left: 5vw;
+    padding-right: 5vw;
+    font-family: "Roboto-Light", Helvetica, Arial, sans-serif;
+    line-height: 30px;
+}
+
+#blue-rectangle {
+    background-color: cornflowerblue;
+}
+
+#teal-rectangle {
+    background-color: turquoise;
+}
+
+#green-rectangle {
+    background-color: palegreen;
+}
+
+#yellow-rectangle {
+    background-color: gold;
+}
